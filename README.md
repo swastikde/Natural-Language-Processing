@@ -1,6 +1,6 @@
 # Natural-Language-Processing
 
-All NLP learning notebooks are now organized inside the `NLP Basics` folder and renamed in sequence.
+All NLP learning notebooks are organized inside the `NLP Basics` folder and named in sequence.
 
 ## Notebook Order (Follow Sequentially)
 
